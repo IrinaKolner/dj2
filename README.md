@@ -12,15 +12,19 @@
 3) http://127.0.0.1:8000/fp3/ - изменены шрифты и размеры текста (я тут попробовала разных штук, но не сильно много; у меня не было цели сделать красиво).
 4) http://127.0.0.1:8000/main/ - предполагаемая главная страница с использованием bootstrap (выполняет пункт 6 задания: Сайт представляет собой оформленный Bootstrap-шаблон со встроенными пользовательскими данными). Надеюсь, я все правильно поняла. 
 
-1
+1 
+
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/115484055/206568631-08c3aa56-9482-43ed-83fd-25e7230bed69.png">
 
-2 
+2  
+
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/115484055/206568681-913cc791-01a8-430a-afdb-2cc69a4ca061.png">
 
 3 
+
 <img width="604" alt="image" src="https://user-images.githubusercontent.com/115484055/206568743-dc4efbe0-3f12-427f-af82-78616b4f156a.png">
 
-4 
+4  
+
 <img width="1191" alt="image" src="https://user-images.githubusercontent.com/115484055/206568932-03743891-2036-4e7d-b08d-321323f45110.png">
 
