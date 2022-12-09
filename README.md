@@ -15,12 +15,11 @@
 1 
 
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/115484055/206568631-08c3aa56-9482-43ed-83fd-25e7230bed69.png">
+<img width="598" alt="image" src="https://user-images.githubusercontent.com/115484055/206625459-f76ed448-1a34-48fe-92d1-2d15a7767900.png"> 
 
 2  
 
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/115484055/206568681-913cc791-01a8-430a-afdb-2cc69a4ca061.png">
-
-<img width="598" alt="image" src="https://user-images.githubusercontent.com/115484055/206625459-f76ed448-1a34-48fe-92d1-2d15a7767900.png">
 
 
 3 
